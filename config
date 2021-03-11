@@ -1,0 +1,3 @@
+export PROJECT_SLUG=template
+export DB_PROBE_PORT=7003
+export PMA_PORT=9002
